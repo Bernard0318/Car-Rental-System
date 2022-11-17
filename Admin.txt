@@ -1,4 +1,0 @@
-101,vcec,123,231,Male,1223,ecewc
-102,vcec,123,231,Male,1223,ecewc
-101,Bernard,1324,21,Male,01213,12ew
-102,Bernard,1324,21,Male,01213,12ew
